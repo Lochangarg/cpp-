@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../Python/Personal Desktop Assistant"
+		},
+		{
+			"name": "demo",
+			"path": "../../../.vscode/demo"
+		}
+	],
+	"settings": {}
+}
